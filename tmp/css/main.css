@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700&family=IBM+Plex+Sans+Arabic:wght@300;500;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: all 0.3s ease-in-out;
+}
+
+body {
+  font-size: 24px;
+  font-weight: normal;
+  font-family: "Almarai", sans-serif;
+}
