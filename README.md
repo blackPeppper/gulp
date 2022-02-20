@@ -30,7 +30,7 @@ A powerful gulp-based boilerplate for better front-end coding with __Gulp v4__, 
 - npm run gulp:dev -  launches watchers and server & compile project.
 - npm run gulp:build - optimize & minify files for production version.
 
-## if find version err (gyp) try this
+## if you get a version err (gyp) try this
 
 
 ```bash
